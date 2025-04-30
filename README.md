@@ -105,21 +105,3 @@ Always obtain proper authorization before testing any systems. The template auth
 *Optimized for use with ProjectDiscovery Nuclei v3.0+*
 
 🔐 **Pro Tip**: Combine with custom wordlists for comprehensive coverage!
-```
-
-This markdown provides:
-1. Visual hierarchy with emojis and sections
-2. Code blocks for technical details
-3. Responsive tables for data presentation
-4. Clear contribution guidelines
-5. Safety disclaimers
-6. Embedded YAML examples
-7. Nuclei integration details
-
-You can enhance it by:
-1. Adding screenshots of findings
-2. Including sample detection output
-3. Adding a version history section
-4. Incorporating CI/CD pipeline badges
-5. Adding a "Findings Interpretation" section
-6. Including related research papers/references
