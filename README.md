@@ -102,7 +102,6 @@ Always obtain proper authorization before testing any systems. The template auth
 
 ---
 
-[![Nuclei Logo](https://nuclei.projectdiscovery.io/img/nuclei-logo.png)](https://nuclei.projectdiscovery.io)  
 *Optimized for use with ProjectDiscovery Nuclei v3.0+*
 
 🔐 **Pro Tip**: Combine with custom wordlists for comprehensive coverage!
