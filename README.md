@@ -8,9 +8,6 @@ Template ID: `directory-fuzzing`
 Severity: Info  
 Tags: `directory`, `fuzzing`, `config`
 
-![Pentesting Banner](https://via.placeholder.com/800x200.png?text=Directory+Fuzzing+Detection)  
-*Comprehensive directory fuzzing template for penetration testers*
-
 ## 📜 Description
 This Nuclei template is designed to detect sensitive directories and configuration files through intelligent fuzzing. It targets common security misconfigurations and exposed sensitive resources in web applications.
 
